@@ -12,7 +12,7 @@ $ sudo python2 setup.py install
 # Usage
 
 ### Key generation
-You can use `generateKey` function to generate a bits public and private key.
+You can use `generateKey` function to generate a public and private key.
 
 ```python
 >>> import schmidtSamoa as SS
